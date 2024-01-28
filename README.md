@@ -6,7 +6,7 @@ After ETL we visualize the data with Tableau
 ![Dashboard](https://github.com/ankittejyadav/Sales-Insights-Tableau/assets/22706443/a3a69cf2-fda7-418a-a0ad-11bfe937e468)
 <br/>
 
-Spearheaded development of a comprehensive data warehouse for a large-scale business to visualize sales data from a variety of sources, including Kaggle datasets, resulting in improved business insights and data-driven decision-making.
+• Spearheaded development of a comprehensive data warehouse for a large-scale business to visualize sales data from a variety of sources, including Kaggle datasets, resulting in improved business insights and data-driven decision-making.
 <br/>
 • Utilized Lucidchart to create an ERD and implemented a robust schema on PostgreSQL, ensuring efficient storage and retrieval of large-scale data sets.
 <br/>
